@@ -1,0 +1,6 @@
+RPi.GPIO==0.7.0       # Librería para controlar los GPIO de la Raspberry Pi
+requests==2.31.0      # Librería para hacer solicitudes HTTP (geolocalización)
+geopy==2.3.0          # Librería para cálculos geográficos (opcional, si la usas)
+pvlib==0.9.0          # Librería para cálculos solares (si la usas en angle_irl)
+numpy==1.23.5         # Librería para cálculos numéricos (si la usas)
+pandas==1.5.3         # Librería para manejo de datos (si la usas)
