@@ -121,10 +121,8 @@ Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el ar
 
 ## Contacto
 
-- **Nombre**: [Tu Nombre]
-- **Email**: [tuemail@example.com]
-- **GitHub**: [github.com/tuusuario](https://github.com/tuusuario)
-- **LinkedIn**: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
+- **Nombre**: [Carlos Bautista]
+- **Email**: [carlosbautista.info@gmail.com]
 
 ---
 
